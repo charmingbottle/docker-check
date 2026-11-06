@@ -12,6 +12,7 @@ public class Main {
                     + "<body>"
                     + "<h1>GitHubとDockerの確認課題</h1>"
                     + "<p>Javaプログラムから表示しています</p>"
+                    + "<p>2回目のコミットで追加しました</p>"
                     + "</body>"
                     + "</html>";
 
